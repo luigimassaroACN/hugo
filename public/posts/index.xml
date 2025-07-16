@@ -1,18 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on My New Hugo Site</title>
-    <link>https://example.org/posts/</link>
-    <description>Recent content in Posts on My New Hugo Site</description>
+    <title>Posts on Il Mio Blog</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Il Mio Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 14 Jul 2025 10:37:18 +0200</lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 16 Jul 2025 17:24:04 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Pippo Baudo</title>
+      <link>http://localhost:1313/posts/pippo-baudo/</link>
+      <pubDate>Wed, 16 Jul 2025 17:24:04 +0200</pubDate>
+      <guid>http://localhost:1313/posts/pippo-baudo/</guid>
+      <description>&lt;h1 id=&#34;dillinger&#34;&gt;Dillinger&lt;/h1&gt;&#xA;&lt;h2 id=&#34;the-last-markdown-editor-ever&#34;&gt;&lt;em&gt;The Last Markdown Editor, Ever&lt;/em&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://nodesource.com/products/nsolid&#34;&gt;&lt;img src=&#34;https://cldup.com/dTxpPi9lDf.thumb.png&#34; alt=&#34;N|Solid&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://travis-ci.org/joemccann/dillinger&#34;&gt;&lt;img src=&#34;https://travis-ci.org/joemccann/dillinger.svg?branch=master&#34; alt=&#34;Build Status&#34;&gt;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Dillinger is a cloud-enabled, mobile-ready, offline-storage compatible,&#xA;AngularJS-powered HTML5 Markdown editor.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Type some Markdown on the left&lt;/li&gt;&#xA;&lt;li&gt;See HTML in the right&lt;/li&gt;&#xA;&lt;li&gt;✨Magic ✨&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;features&#34;&gt;Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Import a HTML file and watch it magically convert to Markdown&lt;/li&gt;&#xA;&lt;li&gt;Drag and drop images (requires your Dropbox account be linked)&lt;/li&gt;&#xA;&lt;li&gt;Import and save files from GitHub, Dropbox, Google Drive and One Drive&lt;/li&gt;&#xA;&lt;li&gt;Drag and drop markdown and HTML files into Dillinger&lt;/li&gt;&#xA;&lt;li&gt;Export documents as Markdown, HTML and PDF&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Markdown is a lightweight markup language based on the formatting conventions&#xA;that people naturally use in email.&#xA;As &lt;a href=&#34;http://daringfireball.net&#34;&gt;John Gruber&lt;/a&gt; writes on the &lt;a href=&#34;http://daringfireball.net/projects/markdown/&#34;&gt;Markdown site&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>My First Post</title>
-      <link>https://example.org/posts/my-first-post/</link>
+      <link>http://localhost:1313/posts/my-first-post/</link>
       <pubDate>Mon, 14 Jul 2025 10:37:18 +0200</pubDate>
-      <guid>https://example.org/posts/my-first-post/</guid>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
       <description>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;This is &lt;strong&gt;bold&lt;/strong&gt; text, and this is &lt;em&gt;emphasized&lt;/em&gt; text.&lt;/p&gt;&#xA;&lt;p&gt;Visit the &lt;a href=&#34;https://gohugo.io&#34;&gt;Hugo&lt;/a&gt; website!&lt;/p&gt;</description>
     </item>
   </channel>
